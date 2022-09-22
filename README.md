@@ -20,3 +20,25 @@ In this track, we’ll use the following technologies for building the app:
 
 - Apollo Server: Fully-featured GraphQL Server with focus on easy setup, performance and great developer experience
 - Prisma: Open-source database toolkit that makes it simple to work with relational databases
+
+# How to use
+
+## 1) Clone repository
+
+```
+git clone https://github.com/jnyjhow/tutorial_graphql_react_apollo/
+```
+
+## 2) Start the backend server
+
+Go to the backend folder, install dependencies and start the server.
+
+```
+cd tutorial_graphql_react_apollo/backend
+yarn install
+yarn dev
+```
+
+> **Note**: If you want to interact with the GraphQL API of the server inside, you can navigate to [http://localhost:4000](http://localhost:4000).
+
+## Run the app
