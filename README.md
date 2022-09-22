@@ -31,7 +31,7 @@ git clone https://github.com/jnyjhow/tutorial_graphql_react_apollo/
 
 ## 2) Start the backend server
 
-Go to the backend folder, install dependencies and start the server.
+Go to the `backend` folder, install dependencies and start the server.
 
 ```
 cd tutorial_graphql_react_apollo/backend
@@ -43,7 +43,7 @@ yarn dev
 
 ## 3) Run the app
 
-Now that the server is running, you can start the React app as well. The commands need to be run in a new terminal tab/window inside the root directory tutorial_graphql_react_apollo (because the current tab is blocked by the process running the server):
+Now that the server is running, you can start the React app as well. The commands need to be run in a new terminal tab/window inside the root directory `tutorial_graphql_react_apollo` (because the current tab is blocked by the process running the server):
 
 ```sh
 yarn install
